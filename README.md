@@ -5,7 +5,7 @@ Take a look here
 https://medium.com/@Wassimply/how-data-mining-coud-have-prevented-tunisia-s-terror-attacks-in-bardo-museum-1292fc32e36a
 
 
-#! /usr/bin/env Rscript
+#! /Wassim/bin/env Rscript
 require("getopt", quietly=TRUE)
  
 spec = matrix(c(
