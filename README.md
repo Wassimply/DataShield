@@ -11,7 +11,7 @@ Under heavy construction at the moment.
 
 Technologies
 
-DataShield is currently morphing into a website built using AngularJS, Bootstrap, R and Gulp as a build system on top of Node.js. An iOS app is also in the works, and will also be built on top of AngularJS using Cordova and Ionic as a bridge to native APIs. Proud to support open source!
+DataShield is currently morphing into a website built using AngularJS, Bootstrap, R , 3jsand Gulp as a build system on top of Node.js. An iOS app is also in the works, and will also be built on top of AngularJS using Cordova and Ionic as a bridge to native APIs. Proud to support open source!
 
  Mission 
  
