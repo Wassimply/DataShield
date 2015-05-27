@@ -1,7 +1,7 @@
 # DataShield
 Mining data to prevent terrorism in Tunisia
 
-https://medium.com/@Wassimply/how-data-mining-coud-have-prevented-tunisia-s-terror-attacks-in-bardo-museum-1292fc32e36a
+Read this : https://medium.com/@Wassimply/how-data-mining-coud-have-prevented-tunisia-s-terror-attacks-in-bardo-museum-1292fc32e36a
 
 
 
