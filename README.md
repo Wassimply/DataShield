@@ -19,3 +19,6 @@ In our project, we attempt to monitor and predict terrorist attacks in real time
 
 Technical preview open by invitation. Please email Wassim Zoghlami to inquire.
 Conract me if you are intrested to work on the project 
+
+
+Update : I had to pull all the code in the repo due to some issues
